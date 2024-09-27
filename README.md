@@ -10,7 +10,7 @@ To get started with the project, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://github.com/BhaveshBasrani/Personal-Website.git
     ```
 2. Navigate to the project directory:
     ```sh
